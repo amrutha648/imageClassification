@@ -154,7 +154,7 @@ import os
 from selenium import webdriver
 
 
-query = ["Serena Williams", "Virat Kohli", "Cristiano Ronaldo", "ms dhoni", "pv sindhu"]
+query = ["Serena Williams", "Virat Kohli", "lionel messi", "maria sharapova", "roger federer"]
 print('hello')
 
 for q in query:
