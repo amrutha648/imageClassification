@@ -1,0 +1,4 @@
+venv/
+dataCollection/chromedriver.exe
+images_dataset/
+dataCleaning/dataset
